@@ -1,0 +1,33 @@
+body{
+	background-color: #080808;
+	color: #eeeeee;
+	text-align: center;
+	font-family: Consolas, 'Malgun Gothic', monospace;
+	margin: 0em;
+	padding: 0em;
+	transition-property: background-color;
+	transition-duration: 0.75s;
+	transition-timing-function: linear;
+}
+body.climax {
+	/* #c94304 */
+	/* #062e70 */
+	background-color: #082e68;
+}
+/*#canvas-frame{
+	filter: drop-shadow(#333 1em 1em 5em);
+}*/
+h1{
+	font-size: 2.5rem;
+	margin: 0em;
+	padding: 0em;
+}
+#genre, #komponist{
+	margin: 0.2em;
+}
+header, #link{
+	margin: 1.25em 0; 
+}
+#kommentar{
+	margin: 4em;
+}
