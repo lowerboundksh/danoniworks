@@ -6,7 +6,7 @@ body{
 	margin: 0em;
 	padding: 0em;
 	transition-property: background-color;
-	transition-duration: 1.0s;
+	transition-duration: 1.75s;
 	transition-timing-function: linear;
 }
 body.climax {
