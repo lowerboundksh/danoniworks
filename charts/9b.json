@@ -1,0 +1,12 @@
+{
+	"9B": {
+		"id": 1,
+		"num": 9,
+		"chars": ["A", "O", "E", "U", "I", "H", "T", "N", "S"],
+		"keys": ["KeyA", "KeyO", "KeyE", "KeyU", "KeyI", "KeyH", "KeyT", "KeyN", "KeyS"],
+		"alternativeKeys": ["", "", "", "", "", "", "", "", ""],
+		"noteNames": ["left_data", "down_data", "up_data", "right_data", "space_data", "sleft_data", "sdown_data", "sup_data", "sright_data"],
+		"freezeNames": ["frzLeft_data", "frzDown_data", "frzUp_data", "frzRight_data", "frzSpace_data", "sfrzLeft_data", "sfrzDown_data", "sfrzUp_data", "sfrzRight_data"],
+		"colorGroup": [0, 0, 0, 0, 2, 0, 0, 0, 0]
+	}
+}
