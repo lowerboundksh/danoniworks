@@ -1,6 +1,6 @@
 function externalDosInit() {
 	g_externalDos = `
-|musicTitle=Personal Contakt,Oversleep,https://twitter.com/_over_sleep_/|
+|musicTitle=Personal Contakt,Oversleep,https://twitter.com/_over_sleep_|
 |difData=9B,Docking,5.5|
 |setColor=#cccccc,#0ac225,#4db7f0,#ff0066,#ff9966|
 |frzColor=#44dddd,#4444dd,#dddd44,#dddd44|
@@ -15,7 +15,7 @@ function externalDosInit() {
 |speed_data=|boost_data=|
 |es_keyKind=9B|es_blankFrame=0|es_label=1|es_startNumber=0|es_bpm=130|es_scoreNumber=1|
 
-|tuning=lower_bound,https://twitter.com/lower_bound/|
+|tuning=lower_bound,https://twitter.com/lower_bound_ksh|
 
 |color_data=
 5560,20,#ee8835
